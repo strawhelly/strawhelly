@@ -12,3 +12,7 @@
   ᶻ 𝗓 𐰁
 <p align="center">
 “Forgiveness starts within; I have to forgive myself first.”
+
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=strawhelly&label=Profile%20Views&color=blue&style=round-square" alt="Profile Views"/>
+</p>
